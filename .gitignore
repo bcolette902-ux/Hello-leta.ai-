@@ -62,3 +62,8 @@ compiler.VB.NET (1,26): Compiler error around this location, the compiler hasn't
 
 pubsub-emulatorCHANGELOG.md
 firebase emulators:start --only pubsupubsub-emulatorCHANGELOG.mdvbnc.Parser.ParseTypeDeclarationSystem.String
+workspace.xml
+junitvmwatcher*.properties
+
+# generated java classes and java source files
+#   manually add any custom artifacts that can't be generated from the models
